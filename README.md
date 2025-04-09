@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a former graphic designer. Now, I'm UX/UI designer and I'm learning HTML, CSS, and JavaScript!
+I'm a former graphic designer. Now, I'm a UX/UI designer and I'm learning HTML, CSS, and JavaScript!
