@@ -1,0 +1,13 @@
+html {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    font-family: manrope;
+    color: rgba(0, 0, 0, 1.0);
+}
+
+p {
+    font-family: Nunito Sans, Sarabun;
+}
